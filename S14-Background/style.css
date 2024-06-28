@@ -1,0 +1,22 @@
+div img{
+    object-fit: fill;
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+}
+div{
+    display: inline-block;
+    margin: 10px;
+}
+figcaption{
+    text-align: center;
+    font-style: italic;
+}
+.history{
+    border: 5px dotted rgb(243, 123, 189);
+}
+.pic{
+    border: 5px dotted rgb(243, 123, 189);
+    background-color: antiquewhite;
+    padding: 10px;
+}
